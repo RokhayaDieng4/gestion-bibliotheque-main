@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/DELL/Videos/gestion-bibliotheque-main/src/control/UsagerControl.java</file>
+            <file>file:/C:/Users/DELL/Videos/gestion-bibliotheque-main/src/IHM/GestionOeuvresExemplaires.java</file>
+            <file>file:/C:/Users/DELL/Videos/gestion-bibliotheque-main/src/Modele/Usager.java</file>
+            <file>file:/C:/Users/DELL/Videos/gestion-bibliotheque-main/src/IHM/AjoutOeuvre.java</file>
+            <file>file:/C:/Users/DELL/Videos/gestion-bibliotheque-main/src/IHM/GestionReservations.java</file>
+            <file>file:/C:/Users/DELL/Videos/gestion-bibliotheque-main/src/IHM/GestionEmprunts.java</file>
+            <file>file:/C:/Users/DELL/Videos/gestion-bibliotheque-main/src/control/ExemplaireControl.java</file>
+            <file>file:/C:/Users/DELL/Videos/gestion-bibliotheque-main/src/IHM/ModificationExemplaire.java</file>
+            <file>file:/C:/Users/DELL/Videos/gestion-bibliotheque-main/src/Modele/Exemplaire.java</file>
+            <file>file:/C:/Users/DELL/Videos/gestion-bibliotheque-main/src/IHM/gestion_usager.java</file>
+            <file>file:/C:/Users/DELL/Videos/gestion-bibliotheque-main/src/Utility/DatabaseConfig.properties</file>
+            <file>file:/C:/Users/DELL/Videos/gestion-bibliotheque-main/src/Modele/Livre.java</file>
+            <file>file:/C:/Users/DELL/Videos/gestion-bibliotheque-main/src/IHM/login.java</file>
+            <file>file:/C:/Users/DELL/Videos/gestion-bibliotheque-main/src/Modele/Oeuvre.java</file>
+            <file>file:/C:/Users/DELL/Videos/gestion-bibliotheque-main/src/control/EmpruntControl.java</file>
+            <file>file:/C:/Users/DELL/Videos/gestion-bibliotheque-main/src/Utility/DBConnection.java</file>
+            <file>file:/C:/Users/DELL/Videos/gestion-bibliotheque-main/src/control/ReservationControl.java</file>
+            <file>file:/C:/Users/DELL/Videos/gestion-bibliotheque-main/src/IHM/ModificationOeuvre.java</file>
+            <file>file:/C:/Users/DELL/Videos/gestion-bibliotheque-main/src/Modele/Emprunt.java</file>
+            <file>file:/C:/Users/DELL/Videos/gestion-bibliotheque-main/src/IHM/GestionReservationsEmprunts.java</file>
+            <file>file:/C:/Users/DELL/Videos/gestion-bibliotheque-main/src/Utility/BibalExceptions.java</file>
+            <file>file:/C:/Users/DELL/Videos/gestion-bibliotheque-main/src/Utility/g_bibliotheque.sql</file>
+            <file>file:/C:/Users/DELL/Videos/gestion-bibliotheque-main/src/IHM/GestionExemplaires.java</file>
+            <file>file:/C:/Users/DELL/Videos/gestion-bibliotheque-main/src/IHM/menu.java</file>
+            <file>file:/C:/Users/DELL/Videos/gestion-bibliotheque-main/src/control/OeuvreControl.java</file>
+            <file>file:/C:/Users/DELL/Videos/gestion-bibliotheque-main/src/Utility/ModelTableau.java</file>
+            <file>file:/C:/Users/DELL/Videos/gestion-bibliotheque-main/src/IHM/AjoutExemplaire.java</file>
+            <file>file:/C:/Users/DELL/Videos/gestion-bibliotheque-main/src/Utility/Utility.java</file>
+            <file>file:/C:/Users/DELL/Videos/gestion-bibliotheque-main/src/Modele/Magazine.java</file>
+            <file>file:/C:/Users/DELL/Videos/gestion-bibliotheque-main/src/Modele/Reservation.java</file>
+        </group>
+    </open-files>
+</project-private>
